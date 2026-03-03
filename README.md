@@ -86,6 +86,6 @@ Datenmodellierung
 
 ## 📎 Präsentation
 
-Eine strukturierte Projektvorstellung ist in der Datei:
+Dashboard als .pdf:
 
 `2026_02_11_Präsentation.pdf`
