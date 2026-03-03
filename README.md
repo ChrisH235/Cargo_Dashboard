@@ -1,84 +1,91 @@
-# 🚆 Cargo – HR Controlling & Payment Analytics Dashboard (Power BI)
+# 🚆 Cargo – HR Controlling & Zahlungsanalyse Dashboard (Power BI)
 
-Corporate Power BI dashboard developed in an HR / Finance controlling context to replace fragmented Excel-based reporting and establish a structured, KPI-driven decision framework.
+Power BI Dashboard, entwickelt im HR- / Finance-Controlling-Kontext, um fragmentierte Excel-Reports abzulösen und eine strukturierte, KPI-basierte Entscheidungsgrundlage zu schaffen.
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard-Vorschau
 
-### Page 1 – Executive Overview
+### Seite 1 – Executive Overview
 <p align="center">
   <img src="images/page1_executive.png" width="900">
 </p>
 
-### Page 2 – Analysis & Drilldown
+### Seite 2 – Analyse & Drilldown
 <p align="center">
   <img src="images/page2_analysis.png" width="900">
 </p>
 
 ---
 
-## 🎯 Business Context
+## 🎯 Ausgangssituation
 
-Reporting was previously based on manual Excel consolidation and email coordination.  
-This led to delayed reporting cycles, limited transparency and high coordination effort.
+Das Reporting basierte zuvor auf manueller Excel-Konsolidierung und E-Mail-Abstimmungen.  
+Die Folgen:
 
-The objective was to create a structured and scalable reporting solution enabling both executive overview and detailed analysis.
+- Verzögerte Reporting-Zyklen  
+- Hoher Abstimmungsaufwand  
+- Begrenzte Transparenz  
+- Keine durchgängige Drilldown-Möglichkeit  
 
----
-
-## 💡 Solution Approach
-
-- Development of a structured KPI framework (Actual, Budget, Variance)
-- Clear separation of executive overview and analytical drilldown
-- Transaction-level transparency instead of aggregated static reporting
-- Historical comparison and validation logic
-- Designed as foundation for further process digitalization (e.g. standardized data entry via Power Apps)
+Ziel war der Aufbau einer skalierbaren, strukturierten Reporting-Lösung mit klar definierten Kennzahlen.
 
 ---
 
-## 🧩 Data Structure
+## 💡 Lösungsansatz
 
-The dashboard is based on a structured data model separating fact and dimension tables to ensure scalability, clean KPI calculations and future extensibility.
-
-Focus was placed on:
-
-- Consistent data logic  
-- Clear KPI definitions  
-- Maintainable model structure  
+- Entwicklung eines strukturierten KPI-Frameworks (Ist, Budget, Abweichung)
+- Trennung von Management-Übersicht und Detailanalyse
+- Drilldown bis auf Transaktionsebene
+- Historische Vergleichslogik
+- Vorbereitung für weitere Prozessdigitalisierung (z. B. standardisierte Datenerfassung via Power Apps)
 
 ---
 
-## 🚀 Impact
+## 🧩 Datenmodell
 
-- Reduced manual consolidation effort
-- Increased transparency in HR controlling
-- Enabled drilldown from KPI level to transaction level
-- Created a scalable reporting foundation for future digital initiatives
+Das Dashboard basiert auf einem strukturierten Datenmodell mit klarer Trennung von Fakt- und Dimensionstabellen.
 
----
+Fokus:
 
-## 🛠 Tech Stack
-
-- Power BI  
-- DAX  
-- Power Query  
-- Excel  
-- Data Modeling  
+- Konsistente Datenlogik  
+- Saubere KPI-Definition  
+- Wartbare Modellstruktur  
+- Skalierbarkeit für zukünftige Erweiterungen  
 
 ---
 
-## 👤 My Role
+## 🚀 Wirkung
 
-- Designed the dashboard architecture and KPI framework  
-- Translated business requirements into structured data logic  
-- Analyzed and validated legacy data  
-- Built a scalable reporting structure aligned with stakeholder needs  
+- Reduzierung manueller Excel-Konsolidierung  
+- Erhöhte Transparenz im HR-Controlling  
+- Drilldown von Kennzahlen auf Einzeltransaktionen  
+- Aufbau einer stabilen Reporting-Basis für weitere Digitalisierungsinitiativen  
 
 ---
 
-## 📎 Presentation
+## 🛠 Technologien
 
-For a structured walkthrough of the dashboard pages, see:
+Power BI  
+DAX  
+Power Query  
+Excel  
+Datenmodellierung  
+
+---
+
+## 👤 Meine Rolle
+
+- Konzeption der Dashboard-Architektur  
+- Definition und Strukturierung der KPIs  
+- Analyse und Validierung von Altdaten  
+- Übersetzung fachlicher Anforderungen in Datenlogik  
+- Aufbau einer skalierbaren Reporting-Struktur  
+
+---
+
+## 📎 Präsentation
+
+Eine strukturierte Projektvorstellung ist in der Datei:
 
 `2026_02_11_Präsentation.pdf`
